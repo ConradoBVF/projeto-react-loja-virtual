@@ -1,0 +1,9 @@
+img {
+    height: 300px;
+}
+
+.carrossel {
+    display: flex;
+    justify-content: center;
+    background-color: #f4c342;
+}
